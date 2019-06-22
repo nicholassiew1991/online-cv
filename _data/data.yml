@@ -56,7 +56,7 @@ career-profile:
       Second paragraph if required.
 
 experiences:
-    - role: Software Engineer - Assitant Architech
+    - role: Software Engineer - Assitant Architect
       time: May. 2019 - Present
       company: Unixus Solutions Sdn. Bhd.
       details: |
@@ -102,13 +102,13 @@ experiences:
 education:
     - degree: Bachelor of Information Engineering and Computer Science
       university: Feng Chia University, Taiwan
-      time: 2014 - 2017
+      time: Sept. 2014 - Jun. 2017
       details: |
         Graduated with GPA 3.5 and 80.30 average with the majority credits in software engineering subjects.
 
     - degree: Diploma in Information Technology
       university: New Era College, Malaysia
-      time: 2012 - 2014
+      time: Mar. 2012 - Jun. 2014
       details: |
         Graduated with CGPA 3.52 with the majority credits of computer networking and system administration.
 
