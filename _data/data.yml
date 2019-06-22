@@ -95,8 +95,8 @@ education:
 
 projects:
     title: Projects
-    intro: >
-    
+    intro: 
+
     assignments:
       - title: Velocity
         link: "#hook"
