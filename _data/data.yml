@@ -38,13 +38,10 @@ sidebar:
         level: Native
 
     interests:
-      - item: Climbing
+      - item: Reading
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: Cycling
         link:
 
 career-profile:
@@ -72,8 +69,8 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
+    - degree: BSc in Information Engineering and Computer Science
+      university: Feng Chia University
       time: 2007 - 2011
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
