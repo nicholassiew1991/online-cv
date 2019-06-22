@@ -55,19 +55,6 @@ career-profile:
 
       Second paragraph if required.
 
-education:
-    - degree: Bachelor of Information Engineering and Computer Science
-      university: Feng Chia University, Taiwan
-      time: 2014 - 2017
-      details: |
-        Graduated with GPA 3.5 and 80.30 average with the majority credits in software engineering subjects.remov
-
-    - degree: Diploma in Information Technology
-      university: New Era College, Malaysia
-      time: 2012 - 2017
-      details: |
-        Graduated with CGPA 3.52 with the majority credits of computer networking and system administration.
-
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -111,6 +98,19 @@ experiences:
 
           - Bullet point
           - Bullet point
+
+education:
+    - degree: Bachelor of Information Engineering and Computer Science
+      university: Feng Chia University, Taiwan
+      time: 2014 - 2017
+      details: |
+        Graduated with GPA 3.5 and 80.30 average with the majority credits in software engineering subjects.
+
+    - degree: Diploma in Information Technology
+      university: New Era College, Malaysia
+      time: 2012 - 2017
+      details: |
+        Graduated with CGPA 3.52 with the majority credits of computer networking and system administration.
 
 projects:
     title: Projects
