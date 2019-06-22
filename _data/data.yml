@@ -56,9 +56,9 @@ career-profile:
       Second paragraph if required.
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Engineer - Assitant Architech
+      time: May. 2019 - Present
+      company: Unixus Solutions Sdn. Bhd.
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -73,9 +73,9 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Software Engineer
+      time: Jul. 2018 - Feb. 2019
+      company: Infinitium Group of Companies
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -86,9 +86,9 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Software Developer
+      time: Sept. 2017 - Jul. 2018
+      company: Unixus Solutions Sdn. Bhd.
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -108,7 +108,7 @@ education:
 
     - degree: Diploma in Information Technology
       university: New Era College, Malaysia
-      time: 2012 - 2017
+      time: 2012 - 2014
       details: |
         Graduated with CGPA 3.52 with the majority credits of computer networking and system administration.
 
