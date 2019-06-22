@@ -64,11 +64,11 @@ education:
         #- Bullet point
         #- Buller piint
 
-  - degree: Diploma in Information Technology
-    university: New Era College, Malaysia
-    time: 2012 - 2017
-    details: |
-      Graduated with CGPA 3.52 with the majority credits of computer networking and system administration.
+    - degree: Diploma in Information Technology
+      university: New Era College, Malaysia
+      time: 2012 - 2017
+      details: |
+        Graduated with CGPA 3.52 with the majority credits of computer networking and system administration.
 
 experiences:
     - role: Lead Developer
