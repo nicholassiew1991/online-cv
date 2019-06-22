@@ -73,14 +73,9 @@ education:
       university: Feng Chia University, Taiwan
       time: 2014 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Graduated with GPA 3.5 and 80.30 average with the majority credits in software engineering subjects.
+        - f
+        - d
 
 experiences:
     - role: Lead Developer
@@ -179,22 +174,22 @@ skills:
 
     toolset:
       - name: Python & Django
-        #level: 98%
+        level: 98%
 
       - name: Javascript & jQuery
-        #level: 98%
+        level: 98%
 
       - name: Angular
-        #level: 98%
+        level: 98%
 
       - name: HTML5 & CSS
-        #level: 95%
+        level: 95%
 
       - name: Ruby on Rails
-        #level: 85%
+        level: 85%
 
       - name: Sketch & Photoshop
-        #level: 60%
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
