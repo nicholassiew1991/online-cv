@@ -96,8 +96,8 @@ education:
 projects:
     title: Projects
     assignments:
-      - title: ParcelGateway
-        link: "#parcelgateway" 
+      - title: Parcel Gateway
+        link: "https://www.parcelgateway.com" 
         tagline: "A logistics service platform to booking delivery service online from different couriers"
         stack: ""
 
