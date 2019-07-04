@@ -94,10 +94,12 @@ education:
         Graduated with CGPA 3.52 with the majority credits of computer networking and system administration.
 
 projects:
+    title: Projects
     assignments:
       - title: ParcelGateway
         link: "#parcelgateway" 
-        tagline: ""
+        tagline: "A logistics service platform to booking delivery service online from different couriers"
+        stack: ""
 
 # projects:
 #     title: Projects
