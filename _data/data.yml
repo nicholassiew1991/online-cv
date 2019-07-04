@@ -93,6 +93,12 @@ education:
       details: |
         Graduated with CGPA 3.52 with the majority credits of computer networking and system administration.
 
+projects:
+    assignments:
+      - title: ParcelGateway
+        link: "#parcelgateway" 
+        tagline: ""
+
 # projects:
 #     title: Projects
 #     intro: 
