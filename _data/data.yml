@@ -75,10 +75,10 @@ experiences:
       time: Sept. 2017 - Jul. 2018
       company: Unixus Solutions Sdn. Bhd.
       details: |
-        Design and develop maintainable logistics platform API that easy to fix, extend and integrate third party APIs easily. <br>
-        Support clients around the world to integrate their system to the logistics platform <br>
-        Develop desktop application for clients use for internal to support core operation <br>
-        Develop small services and tools for internal use <br>
+        - Design and develop maintainable logistics platform API that easy to fix, extend and integrate third party APIs easily. <br>
+        - Support clients around the world to integrate their system to the logistics platform <br>
+        - Develop desktop application for clients use for internal to support core operation <br>
+        - Develop small services and tools for internal use <br>
 
 education:
     - degree: Bachelor of Information Engineering and Computer Science
@@ -100,6 +100,7 @@ projects:
         link: "https://www.parcelgateway.com" 
         tagline: "A logistics service platform to booking delivery service online from different couriers"
         stack: ""
+
 
 # projects:
 #     title: Projects
