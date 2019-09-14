@@ -65,6 +65,11 @@ experiences:
       time: May. 2019 - Present
       company: Unixus Solutions Sdn. Bhd.
       details: |
+        - Design and develop API for front-end applications use
+        - Maintain and refactor existing systems
+        - Migrate applications to the cloud
+        - Manage applications and infrastructure on Microsoft Azure
+        - Manage CI/CD pipelines on Azure DevOps
 
     - role: Software Engineer
       time: Jul. 2018 - Feb. 2019
@@ -77,10 +82,10 @@ experiences:
       time: Sept. 2017 - Jul. 2018
       company: Unixus Solutions Sdn. Bhd.
       details: |
-        - Design and develop maintainable logistics platform API that easy to fix, extend and integrate third party APIs easily. <br>
-        - Support clients around the world to integrate their system to the logistics platform <br>
-        - Develop desktop application for clients use for internal to support core operation <br>
-        - Develop small services and tools for internal use <br>
+        - Design and develop maintainable logistics platform API that easy to fix, extend and integrate third party APIs easily.
+        - Support clients around the world to integrate their system to the logistics platform
+        - Develop desktop application for clients use for internal to support core operation
+        - Develop small services and tools for internal use
 
 education:
     - degree: Bachelor of Information Engineering and Computer Science
@@ -98,10 +103,9 @@ education:
 projects:
     title: Projects
     assignments:
-      - title: Logistics Service Platform
+      - title: Logistics Services Platform
         link: "#" 
         tagline: "An online platform to booking delivery service from different couriers"
-        stack: ""
 
 
 # projects:
