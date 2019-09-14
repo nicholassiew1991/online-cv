@@ -39,6 +39,9 @@ sidebar:
       - idiom: Hokkien
         level: Native
 
+      - idiom: Bahasa Malaysia
+        level: Native
+
     interests:
       - item: Reading
         link:
@@ -67,9 +70,8 @@ experiences:
       time: Jul. 2018 - Feb. 2019
       company: Infinitium Group of Companies
       details: |
-        Participate whole Software Development Life Cycle (SDLC)
-        <br>
-        Develop web CMS system for the managements of loyalty app 
+        - Participate whole Software Development Life Cycle (SDLC)
+        - Develop web CMS system for the managements of loyalty app 
 
     - role: Software Developer
       time: Sept. 2017 - Jul. 2018
