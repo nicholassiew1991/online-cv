@@ -131,7 +131,10 @@ skills:
 nskills:
     title: Skills
     groups:
-      - name: Languages
+      - name: Programming Languages
+        details: |
+          - Java: Spring
+          - C#: ASP .NET, ASP .NET Core
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
