@@ -134,6 +134,17 @@ projects:
 #         link: "#"
 #         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
+newSkills:
+  title: Skills
+  
+  groups:
+    - name: Languages
+      skill:
+        - Java: Spring
+        - C#: ASP .NET, ASP .NET Core
+        - Golang
+    
+
 skills:
     title: Skills &amp; Proficiency
 
