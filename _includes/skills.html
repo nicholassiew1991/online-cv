@@ -27,8 +27,10 @@
 
   </div>
 
+  {{ nskills.title }}
+
   <div class="skillset">
-    {% for skillGroup in newSkills.groups %}
+    {% for skillGroup in nskills.groups %}
       <span>{{ skillGroup.name }}</span>
       <br>
     {% endfor %}
