@@ -38,7 +38,7 @@
 
   <div class="skillset">
     {% for skillGroup in nskills.groups %}
-      <h3 class="level-title">{{ skillGroup.name }}</h3>
+      <h3 class="skills-group-title">{{ skillGroup.name }}</h3>
       <div class="details">
         {{ skillGroup.details | markdownify }}
       </div>
