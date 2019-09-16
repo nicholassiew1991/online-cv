@@ -107,7 +107,7 @@ projects:
     assignments:
       - title: Logistics Services Platform
         link: "#" 
-        tagline: "An online platform to booking delivery service from different couriers"
+        tagline: "An online platform allow user to booking delivery service from different couriers"
     
 skills:
     title: Skills &amp; Proficiency
@@ -133,8 +133,10 @@ nskills:
     groups:
       - name: Programming Languages
         details: |
-          - Java: Spring
+          - Java: Spring, Spring Boot, Hibernate
           - C#: ASP .NET, ASP .NET Core
+          - Golang: Gin
+          - JavaScript
 
       - name: Databases
         details: |
