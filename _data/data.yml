@@ -136,5 +136,13 @@ nskills:
           - Java: Spring
           - C#: ASP .NET, ASP .NET Core
 
+      - name: Databases
+        details: |
+          - RDBMS: MySQL, SQL Server
+
+      - name: Others
+        details: |
+          - VCS: Git
+
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
