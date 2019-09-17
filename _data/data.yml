@@ -65,28 +65,31 @@ experiences:
       time: May. 2019 - Present
       company: Unixus Solutions Sdn. Bhd.
       details: |
-        - Design and develop API for front-end applications use
-        - Maintain existing systems and API
-        - Refactor the existing systems
-        - Migrate applications to the cloud
-        - Manage applications and infrastructure on Microsoft Azure
-        - Manage CI/CD pipelines on Azure DevOps
+        - Design and develop API for frontend application use
+        - Refactor and maintenance existing systems
+        - Migrate existing application from server to cloud
+        - Research and evaluation new frameworks or tools to use in solutions
+        - Participate to database design with database team
+        - Manage applications and infrastructure in Azure
+        - Manage CI/CD Pipelines in Azure DevOps
+        - Manage libraries for internal use
+        - Manage tasks and assign to team members
 
     - role: Software Engineer
       time: Jul. 2018 - Feb. 2019
       company: Infinitium Group of Companies
       details: |
-        - Participate whole Software Development Life Cycle (SDLC)
-        - Develop web CMS system for the managements of loyalty app 
+        - Maintenance and develop new features to existing system based on the requirements
+        - Develop CMS backend management system
 
     - role: Software Developer
       time: Sept. 2017 - Jul. 2018
       company: Unixus Solutions Sdn. Bhd.
       details: |
-        - Design and develop maintainable logistics platform API that easy to fix, extend and integrate third party APIs easily.
-        - Support clients around the world to integrate their system to the logistics platform
-        - Develop desktop application for clients use for internal to support core operation
-        - Develop small services and tools for internal use
+        - Design, maintenance and develop maintainable and extensible logistics platform API
+        - Develop desktop application for internal operations
+        - Integrate third party API to logistics platform
+        - Support clients around the world to integrate their system to logistic platform
 
 education:
     - degree: Bachelor of Information Engineering and Computer Science
