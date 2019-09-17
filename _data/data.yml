@@ -136,14 +136,15 @@ nskills:
     groups:
       - name: Programming Languages
         details: |
-          - Java: Spring, Spring Boot, Hibernate
+          - Java: Spring, Spring Boot, JPA (Hibernate)
           - C#: ASP .NET, ASP .NET Core
           - Golang: Gin
-          - JavaScript
+          - JavaScript: Node.js, jQuery
 
       - name: Databases
         details: |
           - RDBMS: MySQL, SQL Server
+          - NoSQL: Azure Table Storage, MongodDB, Redis
 
       - name: Others
         details: |
