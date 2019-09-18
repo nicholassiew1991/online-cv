@@ -111,6 +111,10 @@ projects:
       - title: Logistics Services Platform
         link: "#" 
         tagline: "An online platform allow user to booking delivery service from different couriers"
+      
+      - title: Data Analysis on Social Network
+        link: "#"
+        tagline: "Analyze and categorise media’s news posts and it’s content on Facebook Pages using SVM"
     
 skills:
     title: Skills &amp; Proficiency
@@ -149,6 +153,7 @@ nskills:
       - name: Others
         details: |
           - VCS: Git
+          - Cloud: Azure
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
