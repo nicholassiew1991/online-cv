@@ -153,6 +153,7 @@ nskills:
       - name: Others
         details: |
           - VCS: Git
+          - Container: Docker
           - Cloud: Azure
 
 footer: >
